@@ -4,7 +4,7 @@ import (
 	"embed"
 	"io/fs"
 
-	"github.com/tylfin/gin-swagger-files/internal"
+	"github.com/huangsuper/gin-swagger-files/internal"
 	"golang.org/x/net/webdav"
 )
 

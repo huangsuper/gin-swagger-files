@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/tylfin/gin-swagger-files/internal"
+	"github.com/huangsuper/gin-swagger-files/internal"
 	"gotest.tools/assert"
 )
 

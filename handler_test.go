@@ -10,7 +10,7 @@ import (
 	ginSwagger "github.com/swaggo/gin-swagger"
 	"gotest.tools/assert"
 
-	swaggerFiles "github.com/tylfin/gin-swagger-files"
+	swaggerFiles "github.com/huangsuper/gin-swagger-files"
 )
 
 func performRequest(method, target string, router *gin.Engine) *httptest.ResponseRecorder {
